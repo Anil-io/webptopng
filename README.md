@@ -1,1 +1,1 @@
-I was tired of Google images loading in Webp format. 
+I was tired of images loading in Webp format in Chrome. 
